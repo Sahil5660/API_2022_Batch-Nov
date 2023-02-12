@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56371" started-at="2023-02-12T08:01:06Z" finished-at="2023-02-12T08:02:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56371" started-at="2023-02-12T08:01:06Z" finished-at="2023-02-12T08:02:02Z">
+      <class name="org.testing.testCases.TC5_DeleteRequest">
+        <test-method status="PASS" signature="testCase5()[pri:0, instance:org.testing.testCases.TC5_DeleteRequest@25b485ba]" name="testCase5" duration-ms="2084" started-at="2023-02-12T13:31:17Z" finished-at="2023-02-12T13:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+      </class> <!-- org.testing.testCases.TC5_DeleteRequest -->
+      <class name="org.testing.testCases.TC7_DummyGetRequestAll">
+        <test-method status="PASS" signature="GetRequest()[pri:0, instance:org.testing.testCases.TC7_DummyGetRequestAll@5d740a0f]" name="GetRequest" duration-ms="39899" started-at="2023-02-12T13:31:20Z" finished-at="2023-02-12T13:31:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetRequest -->
+      </class> <!-- org.testing.testCases.TC7_DummyGetRequestAll -->
+      <class name="org.testing.testCases.TC6_DummyPostRequest">
+        <test-method status="PASS" signature="PostRequest()[pri:0, instance:org.testing.testCases.TC6_DummyPostRequest@2b546384]" name="PostRequest" duration-ms="888" started-at="2023-02-12T13:31:19Z" finished-at="2023-02-12T13:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostRequest -->
+      </class> <!-- org.testing.testCases.TC6_DummyPostRequest -->
+      <class name="org.testing.testCases.TC3_GetParticularRecord">
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:org.testing.testCases.TC3_GetParticularRecord@75c072cb]" name="testCase3" duration-ms="2092" started-at="2023-02-12T13:31:12Z" finished-at="2023-02-12T13:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+      </class> <!-- org.testing.testCases.TC3_GetParticularRecord -->
+      <class name="org.testing.testCases.TC8_GetParticularFromDummy">
+        <test-method status="PASS" signature="TC8()[pri:0, instance:org.testing.testCases.TC8_GetParticularFromDummy@214b199c]" name="TC8" duration-ms="2409" started-at="2023-02-12T13:32:00Z" finished-at="2023-02-12T13:32:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC8 -->
+      </class> <!-- org.testing.testCases.TC8_GetParticularFromDummy -->
+      <class name="org.testing.testCases.TC1_PostRequest">
+        <test-method status="PASS" signature="PostRequest()[pri:0, instance:org.testing.testCases.TC1_PostRequest@482cd91f]" name="PostRequest" duration-ms="4665" started-at="2023-02-12T13:31:06Z" finished-at="2023-02-12T13:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostRequest -->
+      </class> <!-- org.testing.testCases.TC1_PostRequest -->
+      <class name="org.testing.testCases.TC4_UpdateRecord">
+        <test-method status="PASS" signature="UpdateRequest()[pri:0, instance:org.testing.testCases.TC4_UpdateRecord@1f1c7bf6]" name="UpdateRequest" duration-ms="2107" started-at="2023-02-12T13:31:15Z" finished-at="2023-02-12T13:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateRequest -->
+      </class> <!-- org.testing.testCases.TC4_UpdateRecord -->
+      <class name="org.testing.testCases.TC2_GetRequest">
+        <test-method status="PASS" signature="GetRequest()[pri:0, instance:org.testing.testCases.TC2_GetRequest@5b0abc94]" name="GetRequest" duration-ms="2182" started-at="2023-02-12T13:31:10Z" finished-at="2023-02-12T13:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetRequest -->
+      </class> <!-- org.testing.testCases.TC2_GetRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
